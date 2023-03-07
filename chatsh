@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+export OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
+python3 ./chatsh.py
